@@ -1,0 +1,15 @@
+{
+  "name": "huddle-landing-page-with-alternating-feature-blocks-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind build src/srcstyles.css -o css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.14"
+  }
+}
